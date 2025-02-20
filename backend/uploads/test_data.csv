@@ -1,6 +1,0 @@
-product_name,quantity,delivery_date
-Product X,100,10-03-2025
-Product Y,-20,Invalid Date
-Product Z,150,15-04-2025
-Product A,NaN,20-05-2025
-Product B,50,25-06-2025
