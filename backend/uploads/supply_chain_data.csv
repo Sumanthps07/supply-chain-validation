@@ -1,0 +1,5 @@
+﻿product_name,quantity,delivery_date
+Product A,100,01-10-2023
+Product B,150,02-10-2023
+Product C,-50,03-10-2023
+Product D,200,Invalid Date
